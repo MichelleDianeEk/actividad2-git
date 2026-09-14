@@ -1,2 +1,3 @@
 datos = [10, 20, 30, 40, 50]
 suma = sum(datos)
+promedio = suma / len(datos)
