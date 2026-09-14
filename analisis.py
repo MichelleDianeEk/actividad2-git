@@ -3,3 +3,4 @@ print("Analisis estadistico de datos")
 print("Datos:", datos)
 maximo = max(datos)
 minimo = min(datos)
+rango = maximo - minimo
